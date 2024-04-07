@@ -1,0 +1,2 @@
+# Scribes
+A bloging website
